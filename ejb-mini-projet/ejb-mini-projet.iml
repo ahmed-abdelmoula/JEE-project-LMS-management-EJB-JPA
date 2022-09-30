@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="EclipseModuleManager">
+    <libelement value="file://$USER_HOME$/Desktop/hibernate-util-1.2.2.598.jar/hibernate-util-1.2.2.598.jar" />
+    <libelement value="file://$USER_HOME$/Desktop/javax.persistence.jar/javax.persistence.jar" />
+    <conelement value="org.eclipse.jst.server.core.container/org.eclipse.jst.server.generic.runtimeTarget/JBoss v5.0" />
+    <conelement value="org.eclipse.jst.j2ee.internal.module.container" />
+    <src_description expected_position="0">
+      <src_folder value="file://$MODULE_DIR$/ejbModule" expected_position="0" />
+    </src_description>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/build/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/ejbModule" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="jdk" jdkName="jdk1.7.0_79" jdkType="JavaSDK" />
+    <orderEntry type="library" name="org.eclipse.jst.server.core.container/org.eclipse.jst.server.generic.runtimeTarget/JBoss v5.0" level="application" />
+    <orderEntry type="library" name="org.eclipse.jst.j2ee.internal.module.container" level="application" />
+    <orderEntry type="module-library">
+      <library name="hibernate-util-1.2.2.598.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/Desktop/hibernate-util-1.2.2.598.jar/hibernate-util-1.2.2.598.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="javax.persistence.jar">
+        <CLASSES>
+          <root url="file://$USER_HOME$/Desktop/javax.persistence.jar/javax.persistence.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
